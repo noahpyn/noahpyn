@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahpyn&label=Profile%20views&color=0e75b6&style=flat" alt="noahpyn" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Angular Web Development!**
 
 - 🌱 I’m currently learning **Angular, Mobile UI**
 
