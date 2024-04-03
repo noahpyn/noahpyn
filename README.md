@@ -5,8 +5,6 @@
 
 - 🔭View all of my **current frontend projects!** https://codepen.io/collection/LPOWRz
 
-- 🌱 I’m currently learning **Angular, Mobile UI**
-
 - 📫 How to reach me **noahjpayne0@gmail.com**
 
 <p align="left">
